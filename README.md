@@ -1,6 +1,6 @@
 ### About me
 
-A master student in Kyoto Institute of Technology.
+Programmer in Tokyo.
 
 - Webpage : [nagayamaryoga.github.io](https://nagayamaryoga.github.io)
 - Blog : [有限猿定理](https://nagayamaryoga.github.io/blog/)
