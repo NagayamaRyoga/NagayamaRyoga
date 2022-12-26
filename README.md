@@ -1,6 +1,6 @@
 ### About me
 
-Programmer in Tokyo.
+Programmer in Kyoto.
 
 - Webpage : [nagayamaryoga.github.io](https://nagayamaryoga.github.io)
 - Blog : [有限猿定理](https://nagayamaryoga.github.io/blog/)
